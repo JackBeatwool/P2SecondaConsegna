@@ -1,0 +1,61 @@
+QToolBar{
+    background-color: lightgrey;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+/*Bottoni della toolbar*/
+#saveload_btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 1.5px;
+}#saveload_btn:hover{
+    background-color: #F5B041;
+}
+
+#newTrip_btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 1.5px;
+}#newTrip_btn:hover{
+    background-color: #16A085;
+}
+
+#calcolo_btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 1.5px;
+}#calcolo_btn:hover{
+    background-color: #5499C7;
+}
+
+#search_btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 1.5px;
+}#search_btn:hover, #search_btn:checked{
+    background-color: #5499C7;
+}
+
+/*Widget*/
+
+#del_btn{
+    border-radius: 10px;
+}#del_btn:hover{
+    background-color: #E74C3C;
+}
+
+#edit_btn{
+    border-radius: 10px;
+}#edit_btn:hover{
+    background-color: #5499C7;
+}
+
+#title_lbl{
+    font-weight: bold;
+    font-size: 26px;
+}

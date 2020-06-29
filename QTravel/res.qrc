@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="add_btn">icons/add_btn.png</file>
+        <file alias="del_btn">icons/del_btn.png</file>
+        <file alias="load_btn">icons/load_btn.png</file>
+        <file alias="save_btn">icons/save_btn.png</file>
+        <file alias="search_btn">icons/search_btn.png</file>
+        <file alias="calcola_btn">icons/calola_btn.png</file>
+        <file alias="edit_btn">icons/edit_btn.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file alias="style.css">style.css</file>
+    </qresource>
+</RCC>

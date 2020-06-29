@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qtrips>
+    <trip type="car">
+        <titolo>Test</titolo>
+        <partenza>Milano</partenza>
+        <arrivo>Napoli</arrivo>
+        <data>ven giu 26 2020</data>
+        <distanza>771</distanza>
+        <durata>29100</durata>
+        <carburante>Elettrica</carburante>
+    </trip>
+    <trip type="train">
+        <titolo>FrecciaRossa</titolo>
+        <partenza>Milano</partenza>
+        <arrivo>Napoli</arrivo>
+        <data>dom giu 28 2020</data>
+        <distanza>684</distanza>
+        <durata>16920</durata>
+        <tipologia>Alta Velocita</tipologia>
+    </trip>
+    <trip type="bike">
+        <titolo>Pedalata</titolo>
+        <partenza>Montebelluna</partenza>
+        <arrivo>Cornuda</arrivo>
+        <data>mer giu 17 2020</data>
+        <distanza>13.2</distanza>
+        <durata>5562</durata>
+        <calorie>345</calorie>
+    </trip>
+    <trip type="foot">
+        <titolo>Corsetta Mattutina</titolo>
+        <partenza>Casa</partenza>
+        <arrivo>Casa</arrivo>
+        <data>lun giu 29 2020</data>
+        <distanza>4.6</distanza>
+        <durata>1963</durata>
+        <tipologia>Corsa</tipologia>
+    </trip>
+    <trip type="mixed">
+        <titolo>Escursione sul Grappa</titolo>
+        <partenza>Treviso</partenza>
+        <arrivo>Monte Grappa</arrivo>
+        <data>lun giu 29 2020</data>
+        <distanza>68.4</distanza>
+        <durata>9565</durata>
+        <tipologia>Camminata</tipologia>
+        <carburante>Diesel</carburante>
+    </trip>
+</qtrips>
